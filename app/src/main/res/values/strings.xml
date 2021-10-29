@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TwoActivitiesChallenge</string>
+    <string name="my_text">my text</string>
+    <string name="par">paragraph is here</string>
+    <string name="first"> TEXT ONE </string>
+    <string name="second"> TEXT TWO </string>
+    <string name="third">TEXT THREE</string>
+</resources>
